@@ -1,6 +1,6 @@
 <!-- ===== 顶部头图（上传图片版） ===== -->
 <p align="center">
-  <img src="./assets/banner.png" alt="banner" width="100%" />
+  <img src="https://ys-d.ysupan.com/wap/grotking/4GQCMiG2SE5BA57/2kf7c1DyhSdPf4oIh0fSjOJHNc.DMJ/01.jpg?lx=xz" alt="banner" width="100%" />
 </p>
 
 <!-- ===== 顶部横幅 ===== -->
