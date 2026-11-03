@@ -23,8 +23,8 @@
 
 <!-- ===== GitHub 数据卡片 ===== -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C5CE7&icon_color=6C5CE7&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C5CE7" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=grotking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C5CE7&icon_color=6C5CE7&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grotking&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C5CE7" alt="Top Languages" />
 </p>
 
 <!-- ===== 底部页脚波浪 ===== -->
