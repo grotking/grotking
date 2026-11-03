@@ -1,4 +1,9 @@
-<!-- ===== 顶部横幅（模拟背景图效果） ===== -->
+<!-- ===== 顶部头图（上传图片版） ===== -->
+<p align="center">
+  <img src="./assets/banner.png" alt="banner" width="100%" />
+</p>
+
+<!-- ===== 顶部横幅 ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=220&section=header&text=GROTKING&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=梦里不知身是客，一晌贪欢&descAlignY=55&descSize=18" width="100%" />
 </p>
@@ -18,10 +23,10 @@
 <p align="center">
   <a href="https://github.com/grotking"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:grotkingbenszone@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="[YOUR_WEBSITE](http://grotking.ysepan.com/)"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="http://grotking.ysepan.com/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
 
-<!-- ===== GitHub 数据卡片（替换域名版） ===== -->
+<!-- ===== GitHub 数据卡片 ===== -->
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=grotking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C5CE7&icon_color=6C5CE7" alt="GitHub Stats" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=grotking&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C5CE7" alt="Top Languages" />
