@@ -11,7 +11,7 @@
 
 <!-- ===== 动态打字效果（可用于技术身份或正在做的事） ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=6C5CE7&center=true&vCenter=true&width=500&lines=Backend+Engineer;Systems+%26+Infrastructure;Open+Source+Builder;Always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=6C5CE7&center=true&vCenter=true&width=500&lines=Business+Legal+Engineer;Systems+%26+Infrastructure;Open+Source+Builder;Always+shipping." alt="Typing SVG" />
 </p>
 
 <!-- ===== 社交 / 联系徽章 ===== -->
@@ -21,10 +21,10 @@
   <a href="[YOUR_WEBSITE](http://grotking.ysepan.com/)"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
 
-<!-- ===== GitHub 数据卡片 ===== -->
+<!-- ===== GitHub 数据卡片（替换域名版） ===== -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=grotking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C5CE7&icon_color=6C5CE7&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grotking&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C5CE7" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=grotking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C5CE7&icon_color=6C5CE7" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=grotking&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C5CE7" alt="Top Languages" />
 </p>
 
 <!-- ===== 底部页脚波浪 ===== -->
