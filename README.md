@@ -1,11 +1,10 @@
-<!-- ===== 顶部头图（上传图片版） ===== -->
 <p align="center">
-  <img src="https://ys-d.ysupan.com/wap/grotking/4GQCMiG2SE5BA57/2kf7c1DyhSdPf4oIh0fSjOJHNc.DMJ/01.jpg?lx=xz" alt="banner" width="100%" />
+  <img src="./assets/banner.png" alt="banner" width="100%" />
 </p>
 
-<!-- ===== 顶部横幅 ===== -->
+<!-- ===== 顶部黑金波浪 ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=220&section=header&text=GrotKing&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=梦里不知身是客，一晌贪欢&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:D4AF37&height=220&section=header&text=YOUR_NAME&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=D4AF37&desc=梦里不知身是客，一晌贪欢。&descAlignY=55&descSize=18" width="100%" />
 </p>
 
 <!-- ===== 寄语 / 一句话介绍 ===== -->
@@ -14,9 +13,9 @@
   <em>好的工具应该安静地消失在流里。</em>
 </p>
 
-<!-- ===== 动态打字效果（可用于技术身份或正在做的事） ===== -->
+<!-- ===== 动态打字 ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=6C5CE7&center=true&vCenter=true&width=500&lines=Business+Legal+Engineer;Systems+%26+Infrastructure;Open+Source+Builder;Always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=D4AF37&center=true&vCenter=true&width=500&lines=Business+Legal+Engineer;Systems+%26+Infrastructure;Open+Source+Builder;Always+shipping." alt="Typing SVG" />
 </p>
 
 <!-- ===== 社交 / 联系徽章 ===== -->
@@ -28,11 +27,11 @@
 
 <!-- ===== GitHub 数据卡片 ===== -->
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=grotking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C5CE7&icon_color=6C5CE7" alt="GitHub Stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=grotking&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C5CE7" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=grotking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=grotking&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4AF37" alt="Top Languages" />
 </p>
 
-<!-- ===== 底部页脚波浪 ===== -->
+<!-- ===== 底部黑金波浪 ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:D4AF37&height=120&section=footer" width="100%" />
 </p>
