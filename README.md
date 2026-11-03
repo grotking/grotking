@@ -1,6 +1,6 @@
 <!-- ===== 顶部横幅（模拟背景图效果） ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=220&section=header&text=YOUR_NAME&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=梦里不知身是客，一晌贪欢&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=220&section=header&text=GROTKING&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=梦里不知身是客，一晌贪欢&descAlignY=55&descSize=18" width="100%" />
 </p>
 
 <!-- ===== 寄语 / 一句话介绍 ===== -->
